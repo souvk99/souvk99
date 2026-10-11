@@ -92,7 +92,7 @@ End-to-end edge compute nodes, wireless telemetry systems, and embedded hardware
 ### [04] CONTACT // COLOPHON
 
 * **Identity**: Souvik Halder
-* **Discipline**: Product Designer // Hardware Systems Architect
+* **Discipline**: Product Designer // Hardware Systems Architect // Cybersecurity
 * **Inquiries**: [doc15833@gmail.com](mailto:doc15833@gmail.com)
 * **GitHub**: [@souvk99](https://github.com/souvk99)
 
